@@ -1,0 +1,31 @@
+{{ to set up repo }} {{
+
+once in folder - git init
+
+git add .
+
+git status
+
+git commit -m "your message"
+
+make blank setup in github
+
+git remote add origin (your url name) dont add parenthesis
+
+git branch -M main
+
+git push -u origin main 
+
+}} 
+
+{{ to push files }} {{
+
+git status to see if u have new files 
+
+git add "file name with the extension"
+
+git commit -m "Image"
+
+git push
+
+}}
